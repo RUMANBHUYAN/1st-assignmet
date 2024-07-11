@@ -45,6 +45,14 @@
     justify-content: center;
     gap: 20px;
 }
+.inspiration{
+    text-align: center;
+    padding: 20px;
+}
+.link{
+    text-align: center;
+    padding: 20px; 
+}
 .sect3_htmlicon1{
     background-color: rgb(247, 242, 234);
     border: 1px;
